@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enterCity">Enter City</string>
+    <string name="okButton">OK</string>
+    <string name="weatherTextView">Weather</string>
+    <string name="city_country">City Country</string>
+    <string name="temperature">Temperature</string>
+    <string name="min_temp">Min. Temp.</string>
+    <string name="max_temp">Max. Temp.</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="defaultValue">…</string>
+    <string name="aboutMenu">About</string>
+    <string name="changeCityMenu">ChangeCity</string>
+</resources>

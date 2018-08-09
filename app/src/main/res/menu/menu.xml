@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/changeCityItemMenu"
+        android:orderInCategory="102"
+        android:title="@string/changeCityMenu"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/aboutItemMenu"
+        android:orderInCategory="103"
+        android:title="@string/aboutMenu"
+        app:showAsAction="never"/>
+</menu>
